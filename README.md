@@ -10,7 +10,7 @@ I'm a Software Engineering student at UET Lahore, passionate about building robu
 *  Linkedin: www.linkedin.com/in/mhamzashahidw61
 
 ## 💻 Tech Stack & Skills
-* **Languages & Web:** C++, Python, HTML, CSS
+* **Languages & Web:** C++, Python, HTML, CSS,JS
 * **Databases:** SQL
 * **Core Concepts:** Object-Oriented Programming (OOP), Digital Logic Design, Applied Statistics
 
